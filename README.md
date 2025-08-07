@@ -127,6 +127,6 @@ pip install --force-reinstall langchain langchain-openai
 ```
 
 output :
-[image](img/imgg)
+![image](img/imgg.png)
 
 This research assistant will help you gather, process, and synthesize information from multiple sources with intelligent context engineering!
